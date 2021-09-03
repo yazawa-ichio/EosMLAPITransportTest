@@ -1,0 +1,13 @@
+Library
+Temp
+Logs
+obj
+Build
+.vs
+*.sln
+*.csproj
+*.userprefs
+
+
+#全角死すべし
+*[! -~]*
