@@ -98,6 +98,22 @@
         "com.unity.modules.imgui": "1.0.0"
       }
     },
+    "jp.ilib.uvmb": {
+      "version": "https://github.com/yazawa-ichio/UVMBinding.git?path=Unity/Assets/UVMBinding",
+      "depth": 0,
+      "source": "git",
+      "dependencies": {
+        "com.unity.nuget.mono-cecil": "1.10.1-preview.1"
+      },
+      "hash": "55ba5e23c8f08bc0e97c73eb93ec2ec05163790c"
+    },
+    "jp.yazawa-ichio.ilib-ui-control": {
+      "version": "https://github.com/yazawa-ichio/ilib-ui-control.git",
+      "depth": 0,
+      "source": "git",
+      "dependencies": {},
+      "hash": "c78745333896341df0b0a0603c5628c2bf32df4a"
+    },
     "com.unity.modules.ai": {
       "version": "1.0.0",
       "depth": 0,
